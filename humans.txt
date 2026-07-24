@@ -1,0 +1,37 @@
+/* TEAM */
+
+Name: Manish Thorat
+Role: Azure Cloud Engineer
+
+Location: Maharashtra, India
+
+Website:
+https://manishthorat1.github.io/resume/
+
+LinkedIn:
+https://www.linkedin.com/in/manish-thorat-a7a6091b7/
+
+GitHub:
+https://github.com/manishthorat1
+
+Email:
+YOUR_EMAIL
+
+Skills:
+Microsoft Azure
+Azure Arc
+Windows Server
+Hyper-V
+Linux
+Docker
+PowerShell
+Networking
+
+Tools:
+VS Code
+Git
+GitHub
+Azure Portal
+
+Last Updated:
+July 2026
